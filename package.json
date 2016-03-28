@@ -1,0 +1,23 @@
+{
+  "name": "screamer",
+  "version": "1.0.0",
+  "description": "A thing that loads stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrregularShed/screamer.git"
+  },
+  "author": "Steve Anderson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/IrregularShed/screamer/issues"
+  },
+  "homepage": "https://github.com/IrregularShed/screamer#readme",
+  "dependencies": {
+    "jimp": "^0.2.21",
+    "request-promise": "^2.0.1"
+  }
+}
